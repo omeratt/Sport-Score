@@ -1,0 +1,27 @@
+﻿@page
+@model WebApplication1.Pages.ContactUsModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/Contact.css"/>
+
+<div class="container2">
+    <form id="contact" action="" method="post" enctype="multipart/form-data">
+        <h3>Quick Contact</h3>
+        <h4>Contact us today, and get reply with in 24 hours!</h4>
+        <fieldset>
+            <input asp-for="Model.Subject" placeholder="Subject" type="text" tabindex="2" required>
+        </fieldset>
+        <fieldset>
+            <input asp-for="Model.Attachment" placeholder="Upload File" type="file">
+        </fieldset>
+        <fieldset>
+            <textarea asp-for="Model.Body" placeholder="Type your Message Here...." tabindex="5" required></textarea>
+        </fieldset>
+        <fieldset>
+            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+        </fieldset>
+    </form>
+
+
+</div>

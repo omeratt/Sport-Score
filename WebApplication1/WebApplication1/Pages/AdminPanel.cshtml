@@ -1,0 +1,48 @@
+﻿@page
+@model WebApplication1.Pages.AdminPanelModel
+@{ }
+
+
+<div class="container" mt-5>
+
+    <div class="row justify-content-center align-items-center">
+        <div class="card" style="width: 18rem;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <a class="btn btn-primary" asp-page="/ChangeEmail">Change Email or Username</a>
+                </li>
+                <li class="list-group-item">
+                    <a class="btn btn-primary" asp-page="/AddUser">Add users And managers</a>
+                </li>
+                <li class="list-group-item">
+                    <a class="btn btn-primary" asp-page="/EditNews">Edit News</a>
+                </li>
+                <li class="list-group-item">
+                    <a class="btn btn-primary" asp-route-id=27124892-6c79-4248-ac59-c789d2eabb2a asp-page="/DeleteUsers">Delete Users</a>
+                </li>
+                @*<li class="list-group-item">DeleteUsers</li>*@
+            </ul>
+            <div class="card-footer">
+                Card footer
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class="mb-3">Add Role</h1>
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Model.RoleName">Role Name</label>
+                    <input type="text" name="role" asp-for="Model.RoleName" class="form-control" />
+                    <span asp-validation-for="Model.RoleName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <button type="submit" asp-page-handler="CreateRole" class="btn btn-primary">Add Role</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

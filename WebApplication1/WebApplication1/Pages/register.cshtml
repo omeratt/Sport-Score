@@ -1,0 +1,45 @@
+﻿@page
+@model WebApplication1.Pages.registerModel
+@{
+}
+
+
+<div class="container" mt-5>
+    <div class="row justify-content-center align-items-center" >
+
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class="mb-3">Register</h1>
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Model.UserName">User Name</label>
+                    <input type="text" asp-for="Model.UserName" class="form-control" />
+                    <span asp-validation-for="Model.UserName" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Model.Email">Email Address</label>
+                    <input type="email" asp-for="Model.Email" class="form-control" />
+                    <span asp-validation-for="Model.Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Model.Password">Password</label>
+                    <input type="password" asp-for="Model.Password" class="form-control" />
+                    <span asp-validation-for="Model.Password" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Model.ConfirmPassword">Confirm Password</label>
+                    <input type="password" asp-for="Model.ConfirmPassword" class="form-control" />
+                    <span asp-validation-for="Model.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="mb-3 form-check">
+                    <label class="form-check-label" asp-for="Model.Role">Sign as Vip</label>
+                    <input type="checkbox" asp-for="Model.Role" class="form-check-input" onchange="alert(' 30-day free trial. After your first 30 days, we charge a $10 monthly.\n ');" />
+                </div>
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

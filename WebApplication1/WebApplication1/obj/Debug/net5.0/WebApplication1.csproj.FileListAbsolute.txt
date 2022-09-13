@@ -1,0 +1,734 @@
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Eliran\Desktop\123\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\register.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\register.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\UserPanel.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AdminPanel.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\NotAuthorize.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AdminPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\NotAuthorize.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\UserPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangePassword.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangeEmail.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AddUser.cshtml.g.cs
+C:\Users\Eliran\Desktop\לימודים\שנה ג\סמסטר ב'\ניהול תוכנה\פרויקט\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AddUser.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AdminPanel.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangeEmail.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangePassword.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\NotAuthorize.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\register.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\UserPanel.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\ofir3\OneDrive\שולחן העבודה\project1\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AddUser.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangeEmail.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangePassword.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\RestSharp.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\EditNews.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AddUser.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AdminPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangeEmail.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangePassword.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\EditNews.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\NotAuthorize.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\register.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\UserPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Eliran\Desktop\‏‏תיקיה חדשה\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ProfilePicture.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ProfilePicture.cshtml.g.cs
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\attia\Desktop\TEAM_5\PM2022_TEAM_5\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\DeleteUsers.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\EditNews.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Home.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\Loading.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\_Imports.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AddUser.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\AdminPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangeEmail.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ChangePassword.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\DeleteUsers.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\EditNews.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\NotAuthorize.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ProfilePicture.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\register.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\UserPanel.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\Components\FavTeam.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Shared\Components\FavTeam.razor.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\FavTeam.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\ContactUs.cshtml.g.cs
+C:\Users\Eliran\Desktop\Sport api\PM2022_TEAM_5-main\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Pages\Index1.cshtml.g.cs

@@ -1,0 +1,32 @@
+﻿@page
+@using System.Net.Http
+@inject IHttpClientFactory _clientFactory
+
+
+
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    
+    }
+
+<link rel="stylesheet" href="~/css/ScoreTable.css" />
+<link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+
+
+
+<div>
+    @(await Html.RenderComponentAsync<WebApplication1.Pages.Shared.Components.Home>(RenderMode.ServerPrerendered, new {news = Model.news}))
+</div> 
+
+ @*<ul class="nav nav-pills justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" data-bs-toggle="pill" href="#home">Soccer</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="pill" href="#menu1">BasketBall</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="pill" href="#menu2">Menu 2</a>
+      </li>
+    </ul>*@

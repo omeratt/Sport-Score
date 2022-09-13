@@ -1,0 +1,210 @@
+﻿@using Newtonsoft.Json;
+@using Components;
+@using WebApplication1.Model;
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Http
+@inject UserManager<ApplicationUser> userManager
+@inject IHttpContextAccessor HttpContextAccessor
+@inject NavigationManager navigationManager
+
+<h3>Favourite Team</h3>
+
+@if(user == null || isLoad)
+{
+    <Loading/>
+}
+else
+{
+   @if((user.FavTeam != null || user.FavTeam != "" ) && (!isEdit))
+{
+        @*<FavTeam />*@
+    
+    <button type="button" @onclick="Nav_To_Edit" class="btn btn-primary">Edit Favourite Team</button>
+    <br />
+    <p></p>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" data-bs-toggle="tab" href="#home">Home Games</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#away">Away Games</a>
+        </li>
+    </ul>
+    <br />
+    <div class="tab-content">
+        <div id="home" class="tab-pane active">
+            <div class="container">
+                <div class="table-responsive" >
+                    <table class="table table-dark shadow rounded">
+                        <thead>
+                            <tr>
+                                <th scope="col">Home</th>
+                                <th scope="col">Date/Score</th>
+                                <th scope="col">Away</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if(favteam_home != null)
+                            {
+
+                                foreach(var stat in favteam_home)
+                                {
+                                    <tr>
+                                        <td>@stat.home_team.name</td>
+                                            @if(stat.status == "finished")
+                                            {
+                                                <td>@stat.home_score.current - @stat.away_score.current ( On : @stat.start_at ) </td>
+                                            }
+                                            else
+                                            {
+                                                <td>Start at : @stat.start_at</td>                                           
+                                            }
+                                        <td>@stat.away_team.name</td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div id="away" class="tab-pane fade">
+            <div class="container">
+                <div class="table-responsive" >
+                    <table class="table table-dark shadow rounded">
+                        <thead>
+                            <tr>
+                                <th scope="col">Home</th>
+                                <th scope="col">Date/Score</th>
+                                <th scope="col">Away</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if(favteam_away != null)
+                            {
+
+                                foreach(var stat in favteam_away)
+                                {
+                                    <tr>
+                                        <td>@stat.home_team.name</td>
+                                            @if(stat.status == "finished")
+                                            {
+                                                <td>@stat.home_score.current - @stat.away_score.current</td>
+                                            }
+                                            else
+                                            {
+                                                <td>@stat.start_at</td>                                           
+                                            }
+                                        <td>@stat.away_team.name</td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+}
+    else
+    {
+        <button type="button" @onclick="Nav_To_Fav" class="btn btn-info">Back To Favourite Team</button>
+
+        <FavTeamEdit id="id"/>
+    
+    } 
+}
+
+
+
+@code {
+    ApplicationUser user;
+    public bool isEdit ;
+    string id;
+    public dynamic res;
+    public dynamic favteam_home = new List<dynamic>();
+    public dynamic favteam_away = new List<dynamic>();
+    public bool isLoad { get; set; } = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        isLoad = true;
+        user = await userManager.GetUserAsync(HttpContextAccessor.HttpContext.User);
+        isEdit = !(user.FavTeam != null || user.FavTeam != "");
+        id = user.FavTeam;
+        string startDate = DateTime.UtcNow.AddDays(-90).ToString("yyyy-MM-dd");
+        string endDate = DateTime.UtcNow.AddDays(40).ToString("yyyy-MM-dd");
+        string uri = $"https://sportscore1.p.rapidapi.com/events/search?date_end={endDate}&date_start={startDate}&home_team_id={id}&page=1";
+        Console.WriteLine(startDate);
+        Console.WriteLine(endDate);
+        Console.WriteLine(uri);
+
+        //away_team_id=138
+        if(id != null)
+        {
+            uri = $"https://sportscore1.p.rapidapi.com/events/search?date_end={endDate}&date_start={startDate}&home_team_id={id}&page=1";
+            var client = new HttpClient();
+            var request = new HttpRequestMessage
+            {
+                Method = HttpMethod.Post,
+                RequestUri = new Uri(uri),
+                Headers =
+                {
+                    { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+                    { "X-RapidAPI-Key", Global.API_KEY},
+                },
+            };
+            using (var response = await client.SendAsync(request))
+            {
+                response.EnsureSuccessStatusCode();
+                var body = await response.Content.ReadAsStringAsync();
+                res = JsonConvert.DeserializeObject(body);
+                favteam_home = res.data;
+                @*favteam_home.Reverse();*@
+            }
+
+            //second request for away team
+
+            uri = $"https://sportscore1.p.rapidapi.com/events/search?date_end={endDate}&date_start={startDate}&away_team_id={id}&page=1";
+            client = new HttpClient();
+            request = new HttpRequestMessage
+            {
+                Method = HttpMethod.Post,
+                RequestUri = new Uri(uri),
+                Headers =
+                {
+                    { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+                    { "X-RapidAPI-Key", Global.API_KEY},
+                },
+            };
+            using (var response = await client.SendAsync(request))
+            {
+                response.EnsureSuccessStatusCode();
+                var body = await response.Content.ReadAsStringAsync();
+                res = JsonConvert.DeserializeObject(body);
+                favteam_away = res.data;
+
+                @*favteam_away.Reverse();*@
+            }
+        }
+        isLoad = false;
+    }
+    async void Nav_To_Edit()
+    {
+        isEdit = true;
+        await InvokeAsync(StateHasChanged);
+    }
+    async void Nav_To_Fav()
+    {
+        isLoad = true;
+        isEdit = false;
+        await OnInitializedAsync();
+        isLoad = false;
+        await InvokeAsync(StateHasChanged);
+    }
+
+}

@@ -1,0 +1,512 @@
+﻿@using Newtonsoft.Json;
+@using Components;
+<h3>Leagues</h3>
+
+
+
+<div id="soccer" class="container tab-pane active">
+    <br>
+    <div class="container-fluid">
+        <div class="row">
+            @foreach (var index in leaguesLogo)
+            {
+                <!-- Button trigger modal -->
+                <button class="btn d-flex col-md-4 col-lg-3 justify-content-center align-content-center shadow-none" data-bs-toggle="modal" data-bs-target="#@index.Key">
+                    <figure class="favimgdiv rounded-circle flex-column justify-content-center align-content-center" style="text-align: center">
+                        <img src=@index.Value class="img-thumbnail img-fluid" img-fluid>
+                        <figcaption>@index.Key</figcaption>
+                    </figure>
+                </button>
+            }
+        </div>
+    </div>
+</div>
+
+<!-- Button trigger modal -->
+<!--<button type="button" class="btn shadow-none " data-bs-toggle="modal" data-bs-target="#exampleModal">
+    PL
+</button>-->
+<!-- Modal -->
+<div class="modal fade" id="PL" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Points</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (PL != null)
+                                {
+
+                                    foreach (var stat in PL)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.points_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="IsraelFootball" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Points</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (IsraelFootball != null)
+                                {
+
+                                    foreach (var stat in IsraelFootball)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.points_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="Laliga" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Points</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Laliga != null)
+                                {
+
+                                    foreach (var stat in Laliga)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.points_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="BundesLig" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Points</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (BundesLig != null)
+                                {
+
+                                    foreach (var stat in BundesLig)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.points_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="SeriaA" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Points</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (SeriaA != null)
+                                {
+
+                                    foreach (var stat in SeriaA)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.points_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="IsraelBasketball" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Games</th>
+                                    <th scope="col">W</th>
+                                    <th scope="col">L</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (IsraelBasketball != null)
+                                {
+
+                                    foreach (var stat in IsraelBasketball)
+                                    {
+                                <tr>
+                                    @* stat.team.logo *@
+                                    <td>@stat.position</td>
+                                    <td>@stat.team.name</td>
+                                    <td>@stat.fields.matches_total</td>
+                                    <td>@stat.fields.wins_total</td>
+                                    <td>@stat.fields.losses_total</td>
+                                </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="Euroleague" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Games</th>
+                                    <th scope="col">W</th>
+                                    <th scope="col">L</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Euroleague != null)
+                                {
+
+                                    foreach (var stat in Euroleague)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.matches_total</td>
+                                            <td>@stat.fields.wins_total</td>
+                                            <td>@stat.fields.losses_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="NBA" tabindex="-1" aria-labelledby="PLLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PLLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rank</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Games</th>
+                                    <th scope="col">W</th>
+                                    <th scope="col">L</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (NBA != null)
+                                {
+
+                                    foreach (var stat in NBA)
+                                    {
+                                        <tr>
+                                            @* stat.team.logo *@
+                                            <td>@stat.position</td>
+                                            <td>@stat.team.name</td>
+                                            <td>@stat.fields.matches_total</td>
+                                            <td>@stat.fields.wins_total</td>
+                                            <td>@stat.fields.losses_total</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+    public Dictionary<string, string> leaguesLogo = new Dictionary<string, string>();
+    public Dictionary<string, string> leaguesID = new Dictionary<string, string>();
+    public dynamic PL = new List<dynamic>();
+    public dynamic BundesLig = new List<dynamic>();
+    public dynamic IsraelFootball = new List<dynamic>();
+    public dynamic Laliga = new List<dynamic>();
+    public dynamic IsraelBasketball = new List<dynamic>();
+    public dynamic Euroleague = new List<dynamic>();
+    public dynamic NBA = new List<dynamic>();
+    public dynamic SeriaA = new List<dynamic>();
+
+    void initializeLogos()
+    {
+        leaguesLogo.Add("PL", "https://i.pinimg.com/736x/53/de/94/53de9461519de82c39b132aac9a74338.jpg");
+        leaguesLogo.Add("BundesLig", "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg");
+        leaguesLogo.Add("SeriaA", "https://seeklogo.com/images/L/lega-serie-a-logo-F6AA6C64C9-seeklogo.com.png");
+        //leaguesLogo.Add("League1", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png");
+        leaguesLogo.Add("IsraelFootball", "https://upload.wikimedia.org/wikipedia/en/c/c4/Israeli_Premier_League.png");
+        leaguesLogo.Add("Laliga", "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg");
+        leaguesLogo.Add("IsraelBasketball", "https://www.uleb.com/images/leagues/logo/11/israel-basketball-super-league.jpg?t=1643827081");
+        leaguesLogo.Add("Euroleague", "https://i.pinimg.com/originals/99/68/5e/99685e3f066e5d3d4e4daa6196af9778.jpg");
+        leaguesLogo.Add("NBA", "https://andscape.com/wp-content/uploads/2017/06/nbalogo.jpg?w=700");
+
+    }
+
+    void initializeID()
+    {
+        leaguesID.Add("PL", "11320");
+        leaguesID.Add("BundesLig", "9038");
+        leaguesID.Add("IsraelFootball", "9170");
+        leaguesID.Add("Laliga", "9080");
+        leaguesID.Add("IsraelBasketball", "11328");
+        leaguesID.Add("Euroleague", "9300");
+        leaguesID.Add("NBA", "10345");
+        leaguesID.Add("SeriaA", "9299");
+
+    }
+
+    public List<dynamic> Sort(dynamic input)
+    {
+        List<dynamic> temp = new List<dynamic>();
+        int size = input.Count;
+        int i = 1;
+
+        while (i < (size + 1))
+        {
+            foreach (var item in input)
+            {
+                int position = item.position;
+                if (position == i)
+                {
+                    temp.Add(item);
+                    i++;
+                    continue;
+                }
+            }
+        }
+        return temp;
+    }
+
+    async Task initializeLeagues()
+    {
+        PL = await GetLeague("8960");
+        SeriaA = await GetLeague("9299");
+        BundesLig = await GetLeague("9038");
+        IsraelFootball = await GetLeague("9170");
+        System.Threading.Thread.Sleep(1000);
+        Laliga = await GetLeague("9080");
+        IsraelBasketball = await GetLeague("11328");
+        Euroleague = await GetLeague("9300");
+        NBA = await GetLeague("10345");         
+    }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        initializeLogos();
+        initializeID();
+        await initializeLeagues();
+    }
+
+    public async Task<List<dynamic>> GetLeague(dynamic id)
+    {
+        dynamic res = null;
+        string uri = "https://sportscore1.p.rapidapi.com/seasons/" + id + "/standings-tables";
+
+        var client = new HttpClient();
+        var request = new HttpRequestMessage
+        {
+            Method = HttpMethod.Get,
+            RequestUri = new Uri(uri),
+            Headers =
+{
+        { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+        { "X-RapidAPI-Key",WebApplication1.Model.Global.API_KEY },
+    },
+        };
+        using (var response = await client.SendAsync(request))
+        {
+            response.EnsureSuccessStatusCode();
+            var body = await response.Content.ReadAsStringAsync();
+            res = JsonConvert.DeserializeObject(body);
+
+
+        }
+        return Sort(res.data[0].standings_rows);
+    }
+}

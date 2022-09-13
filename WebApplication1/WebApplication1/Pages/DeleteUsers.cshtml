@@ -1,0 +1,60 @@
+﻿@page
+@model WebApplication1.Pages.DeleteUsersModel
+
+@{
+    ViewData["Title"] = "DeleteUsers";
+}
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<div class="container" mt-5>
+<h1>DeleteUsers</h1>
+    <div class="row justify-content-center align-items-center" >
+        @if(ViewData["succ"]!= null && ViewData["succ"].ToString() == "true")
+        {
+            <div class="toast show bg-success">
+                <div class="toast-header">
+                  <strong class="me-auto">User Deleted Successfuly</strong>
+                  <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+                </div>
+              </div>
+        }
+        <div class="">         
+                <table class="table table-hover">
+                    <thead>
+                      <tr>
+                        <th>User Name</th>
+                        <th>Email</th>
+                        <th>Profile Picture</th>
+                        <th> Delete </th>
+                      </tr>
+                    </thead>
+                    @foreach(var u in Model.Users.ToList())
+                    {
+                    <tbody >
+                      <tr>
+                        <td>@u.UserName</td>
+                        <td>@u.Email</td>
+                        <td>
+                            @if (u.ProfilePic == null)
+                            {
+                                <img class="img-fluid rounded-circle" height="75" width="75" alt="profile" src="~/img/default_pic.png" />
+                            }
+                            else
+                            {
+                                <img class="img-fluid rounded-circle" height="75" width="75" alt="profile" src="data:image/*;base64,@(Convert.ToBase64String(u.ProfilePic))" />
+
+                            }
+                        </td>
+                        <form method="post">
+                        <td><button type="submit" asp-route-email=@u.Email class="btn btn-danger">Delete</button></td>
+                        </form>
+                      </tr>
+                    </tbody>
+                    }
+               </table>
+
+
+        </div>
+    </div>
+</div>

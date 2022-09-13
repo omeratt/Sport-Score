@@ -1,0 +1,17 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@using Model
+@model WebApplication1.Pages.FavTeamModel
+@inject UserManager<ApplicationUser> userManager
+@{
+    //var user = await userManager.GetUserAsync(User);
+    
+}
+
+
+<div>
+
+@(await Html.RenderComponentAsync<WebApplication1.Pages.Shared.Components.FavTeam>(RenderMode.ServerPrerendered))
+
+</div> 
+

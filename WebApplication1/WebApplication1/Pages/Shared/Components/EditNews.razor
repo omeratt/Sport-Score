@@ -1,0 +1,66 @@
+﻿@using WebApplication1.Model;
+@inject NewsService newsService
+@using WebApplication1.ViewModel;
+<div class="container" mt-5>
+    <div class="row justify-content-center align-items-center">
+
+        <div class="col-sm-12 col-md-12 col-lg-4">
+            <h1 class="mb-3">Edit News</h1>
+            @if(Model.text != null){
+            <EditForm Model=@Model OnSubmit=@Edit >
+                <div class="mb-3">
+                    @if(news == null || Model.text == null || load == true)
+                    {
+                        <Loading/>
+                    }
+                    else
+                    {
+                        
+                    <h3>Current News : </h3>
+                    <h5 style="color:ButtonShadow">"@news[0].text"</h5>
+                    <label class="form-label" for="Text">News Text:</label>
+                    <input type="text"  id="Text" @bind="@Model.text" class="form-control" />
+                    }
+                </div>
+
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-primary">Edit News</button>
+                </div>
+            </EditForm>
+            }
+            else{
+                <Loading/>
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+    //public NewsContext News = News1;
+    public ViewModel.EditNews Model = new ViewModel.EditNews();
+    public string oldText;
+    public bool load = true;
+
+    List<News> news = null;
+    //NewsContext News;
+    protected override async Task OnInitializedAsync()
+    {
+        news = await Task.Run(() => newsService.GetAllNewsAsync());
+        //News = newsService.GetNewsContext();
+        load = false;
+    }
+
+    public async void Edit()
+    {
+        load = true;
+        News NewOne = new News() {text = Model.text };
+
+        if(await Task.Run(() => newsService.DeleteNewsAsync(news[0])))
+        {
+            await Task.Run(() => newsService.InsertNewsAsync(NewOne));
+        }
+        news = await Task.Run(() => newsService.GetAllNewsAsync());
+        load = false;
+        await InvokeAsync(StateHasChanged);
+    }
+}

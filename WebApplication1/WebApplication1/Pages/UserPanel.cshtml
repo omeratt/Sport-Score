@@ -1,0 +1,33 @@
+﻿@page
+@model WebApplication1.Pages.UserPanelModel
+@{ }
+<link rel="stylesheet" href="~/css/UserPanel.css" />
+
+
+<div class="container d-flex align-items-center justify-content-center" style="width:70%">
+    <div class="_card">
+        <div class="_card-body">
+            <div class="d-flex flex-column align-items-center">
+                @if (Model.profilePic == null )
+                {
+                <img class="rounded-circle" height="250" width="250" alt="profile" src="~/img/default_pic.png" />
+                }
+                else{
+                <img class="rounded-circle" height="250" width="250" alt="profile" src="data:image/*;base64,@(Convert.ToBase64String(Model.profilePic))" />
+                }
+                <div class="d-flex flex-grow-1 edit">
+                    <br />
+                    
+                    <h4>@Model.user.UserName</h4>
+                    <p class="text-secondary mb-1">@Model.user.Email</p>
+                    <br />
+                    <a class="btn btn-primary buttons" asp-page="/ChangePassword">Edit Password</a>
+                    <br />
+                    <a class="btn btn-primary buttons" asp-page="/ChangeEmail">Edit Email\Username</a>
+                    <br />
+                    <a class="btn btn-primary buttons" asp-page="/ProfilePicture">EditPicture</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

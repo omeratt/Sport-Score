@@ -1,0 +1,852 @@
+﻿@using Newtonsoft.Json;
+@using Components;
+@using WebApplication1.Model;
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Http
+@inject UserManager<ApplicationUser> userManager
+@inject IHttpContextAccessor HttpContextAccessor
+
+<div class="container mt-3">
+    <marquee>@news</marquee>
+    <h2>Sport Api Project</h2>
+    <br />
+
+
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" data-bs-toggle="tab" href="#soccer">Soccer</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#basketBall">BasketBall</a>
+        </li>
+        @if (!isStandard) { 
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#tennis">Tennis</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#volleyball">Volleyball</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#handball">Handball</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#hockey">Hockey</a>
+        </li>
+        }
+
+        <div class="navbar-nav justify-content-center">
+
+            <div class="position-relative">
+                <input type="text" class="form-control" placeholder="Search Live" @bind="@SearchValue" @oninput="Search">
+                <i class="fa-solid fa-magnifying-glass position-absolute top-50 end-0 translate-middle-y pe-2"></i>
+            </div>
+
+        </div>
+
+    </ul>
+
+
+    @if (searchList.Count > 0 && !SearchValue.Equals(""))
+    {<div class="tab-content"></div>
+        <div id="soccer" class="container tab-pane active">
+            <br>
+            <h3>Live Results: @SearchValue </h3>
+            @foreach (var index in searchList)
+            {
+                if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                {
+                    <div class="container2">
+                        <!-- code here -->
+                        <div class="match">
+                            <div class="match-header">
+                                <div class="match-status">
+                                    <div class="video__icon">
+                                        <div class="justify-content-center align-items-center">
+                                            <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                            @*<div class="circle--inner"></div>*@
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                @if (index.league != null)
+                                {
+                                    <div class="match-tournament">
+                                        <img style="width:60px;" src="@index.league.logo" />
+                                        @index.league.name
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="match-tournament">
+                                        @*@index.league.name*@
+                                    </div>
+                                }
+                                <div class="match-actions">
+                                    @*<button class="btn-icon"><i class="material-icons-outlined">grade</i></button>
+                                        <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>*@
+                                </div>
+                            </div>
+                            <div class="match-content">
+                                <div class="column">
+                                    <div class="team team--home">
+                                        <div class="team-logo">
+
+                                            <img style="width: 100px" src="@index.home_team.logo" />
+                                        </div>
+                                        <h2 class="team-name">@index.home_team.name</h2>
+                                    </div>
+                                </div>
+                                <div class="column">
+                                    <div class="match-details">
+                                        <div class="match-date">
+                                            <strong>@index.status_more</strong>
+                                        </div>
+                                        <div class="match-score">
+                                            <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                            <span class="match-score-divider">:</span>
+                                            <span class="match-score-number">@index.away_score.current</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="column">
+                                    <div class="team team--away">
+                                        <div class="team-logo">
+
+                                            <img style="width: 100px" src="@index.away_team.logo" />
+                                        </div>
+                                        <h2 class="team-name"> @index.away_team.name</h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    }
+    else
+    {
+        <!-- Tab panes -->
+        <div class="tab-content ">
+            <div id="soccer" class="container tab-pane active">
+                <br>
+                <h3>Live Soccer Games </h3>
+                @if (!loading)
+                {
+                    @foreach (var index in soccer)
+                    {
+                        if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                        {
+                            <div class="container2">
+                                <!-- code here -->
+                                <div class="match">
+                                    <div class="match-header">
+                                        <div class="match-status">
+                                            <div class="video__icon">
+                                                <div class="justify-content-center align-items-center">
+                                                    <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                    @*<div class="circle--inner"></div>*@
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @if (index.league != null)
+                                        {
+                                            <div class="match-tournament">
+                                                <img style="width:60px;" src="@index.league.logo" />
+                                                @index.league.name
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                            <div class="match-tournament">
+                                                @*@index.league.name*@
+                                            </div>
+                                        }
+                                        <div class="match-actions">
+                                            <!-- Button trigger modal -->
+                                            <button type="button" class="btn btn-outline-dark" data-bs-toggle="modal" data-bs-target="#exampleModal" @onclick="() => { GameStatistics(index.id);}">
+                                                Statistics
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="match-content">
+                                        <div class="column">
+                                            <div class="team team--home">
+                                                <div class="team-logo">
+
+                                                    <img style="width: 100px" src="@index.home_team.logo" />
+                                                </div>
+                                                <h2 class="team-name">@index.home_team.name</h2>
+                                            </div>
+                                        </div>
+                                        <div class="column">
+                                            <div class="match-details">
+                                                <div class="match-date">
+                                                    <strong>@index.status_more</strong>
+                                                </div>
+                                                <div class="match-score">
+                                                    <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                                    <span class="match-score-divider">:</span>
+                                                    <span class="match-score-number">@index.away_score.current</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column">
+                                            <div class="team team--away">
+                                                <div class="team-logo">
+
+                                                    <img style="width: 100px" src="@index.away_team.logo" />
+                                                </div>
+                                                <h2 class="team-name"> @index.away_team.name</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                }
+                else
+                {
+                    <Loading />
+                }
+
+            </div>
+            <div id="basketBall" class="container tab-pane fade">
+                <br>
+                <h3>Live BasketBall Games:</h3>
+                @foreach (var index in basketball)
+                {
+                    if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                    {
+                        <div class="container2">
+                            <!-- code here -->
+                            <div class="match">
+                                <div class="match-header">
+                                    <div class="match-status">
+                                        <div class="video__icon">
+                                            <div class="justify-content-center align-items-center">
+                                                <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                @*<div class="circle--inner"></div>*@
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    @if (index.league != null)
+                                    {
+                                        <div class="match-tournament">
+                                            <img style="width:60px;" src="@index.league.logo" />
+                                            @index.league.name
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="match-tournament">
+                                            @*@index.league.name*@
+                                        </div>
+                                    }
+                                    <div class="match-actions">
+
+                                        <!-- Button trigger modal -->
+                                        <button type="button" class="btn btn-outline-dark" data-bs-toggle="modal" data-bs-target="#exampleModal" @onclick="() => { GameStatistics(index.id);}">
+                                            Statistics
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="match-content">
+                                    <div class="column">
+                                        <div class="team team--home">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.home_team.logo" />
+                                            </div>
+                                            <h2 class="team-name">@index.home_team.name</h2>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="match-details">
+                                            <div class="match-date">
+                                                <strong>@index.status_more</strong>
+                                            </div>
+                                            <div class="match-score">
+                                                <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                                <span class="match-score-divider">:</span>
+                                                <span class="match-score-number">@index.away_score.current</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="team team--away">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.away_team.logo" />
+                                            </div>
+                                            <h2 class="team-name"> @index.away_team.name</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+            <div id="tennis" class="container tab-pane fade">
+                <br>
+                <h3>Live Tennis Games:</h3>
+                @foreach (var index in tennis)
+                {
+                    if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                    {
+                        <div class="container2">
+                            <!-- code here -->
+                            <div class="match">
+                                <div class="match-header">
+                                    <div class="match-status">
+                                        <div class="video__icon">
+                                            <div class="justify-content-center align-items-center">
+                                                <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                @*<div class="circle--inner"></div>*@
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    @if (index.league != null)
+                                    {
+                                        <div class="match-tournament">
+                                            <img style="width:60px;" src="@index.league.logo" />
+                                            @index.league.name
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="match-tournament">
+                                            @*@index.league.name*@
+                                        </div>
+                                    }
+                                    <div class="match-actions">
+                                        @*<button class="btn-icon"><i class="material-icons-outlined">grade</i></button>
+                                            <button class="btn-icon"><i class="material-icons-outlined">add_alert</i></button>*@
+                                    </div>
+                                </div>
+                                <div class="match-content">
+                                    <div class="column">
+                                        <div class="team team--home">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.home_team.logo" />
+                                            </div>
+                                            <h2 class="team-name">@index.home_team.name</h2>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="match-details">
+                                            <div class="match-date">
+                                                <strong>@index.status_more</strong>
+                                            </div>
+                                            <div class="match-score">
+                                                <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                                <span class="match-score-divider">:</span>
+                                                <span class="match-score-number">@index.away_score.current</span>
+                                            </div>
+                                            @*<div class="match-time-lapsed">
+                                                72'
+                                                </div>
+                                                <div class="match-referee">
+                                                Referee: <strong>Mike dean</strong>
+                                                </div>
+                                                <div class="match-bet-options">
+                                                <button class="match-bet-option">1.48</button>
+                                                <button class="match-bet-option">7.84</button>
+                                                <button class="match-bet-option">3.24</button>
+                                                </div>
+                                                <button class="match-bet-place">Place a bet</button>*@
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="team team--away">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.away_team.logo" />
+                                            </div>
+                                            <h2 class="team-name"> @index.away_team.name</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+            <div id="volleyball" class="container tab-pane fade">
+                <br>
+                <h3>Live Volleyball Games:</h3>
+                @foreach (var index in volleyball)
+                {
+                    if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                    {
+                        <div class="container2">
+                            <!-- code here -->
+                            <div class="match">
+                                <div class="match-header">
+                                    <div class="match-status">
+                                        <div class="video__icon">
+                                            <div class="justify-content-center align-items-center">
+                                                <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                @*<div class="circle--inner"></div>*@
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    @if (index.league != null)
+                                    {
+                                        <div class="match-tournament">
+                                            <img style="width:60px;" src="@index.league.logo" />
+                                            @index.league.name
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="match-tournament">
+
+                                        </div>
+                                    }
+                                    <div class="match-actions">
+                                    </div>
+                                </div>
+                                <div class="match-content">
+                                    <div class="column">
+                                        <div class="team team--home">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.home_team.logo" />
+                                            </div>
+                                            <h2 class="team-name">@index.home_team.name</h2>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="match-details">
+                                            <div class="match-date">
+                                                <strong>@index.status_more</strong>
+                                            </div>
+                                            <div class="match-score">
+                                                @if (@index.home_score.current != null)
+                                                {
+                                                    <span class="match-score-number match-score-number--leading">@index?.home_score?.current</span>
+                                                    <span class="match-score-divider">:</span>
+                                                    <span class="match-score-number">@index.away_score.current</span>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="team team--away">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.away_team.logo" />
+                                            </div>
+                                            <h2 class="team-name"> @index.away_team.name</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+            <div id="handball" class="container tab-pane fade">
+                <br>
+                <h3>Live Handball Games:</h3>
+                @foreach (var index in handball)
+                {
+                    if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                    {
+                        <div class="container2">
+                            <!-- code here -->
+                            <div class="match">
+                                <div class="match-header">
+                                    <div class="match-status">
+                                        <div class="video__icon">
+                                            <div class="justify-content-center align-items-center">
+                                                <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                @*<div class="circle--inner"></div>*@
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    @if (index.league != null)
+                                    {
+                                        <div class="match-tournament">
+                                            <img style="width:60px;" src="@index.league.logo" />
+                                            @index.league.name
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="match-tournament">
+
+                                        </div>
+                                    }
+                                    <div class="match-actions">
+                                    </div>
+                                </div>
+                                <div class="match-content">
+                                    <div class="column">
+                                        <div class="team team--home">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.home_team.logo" />
+                                            </div>
+                                            <h2 class="team-name">@index.home_team.name</h2>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="match-details">
+                                            <div class="match-date">
+                                                <strong>@index.status_more</strong>
+                                            </div>
+                                            <div class="match-score">
+                                                <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                                <span class="match-score-divider">:</span>
+                                                <span class="match-score-number">@index.away_score.current</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="team team--away">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.away_team.logo" />
+                                            </div>
+                                            <h2 class="team-name"> @index.away_team.name</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+            <div id="hockey" class="container tab-pane fade">
+                <br>
+                <h3>Live Hockey Games:</h3>
+                @foreach (var index in hockey)
+                {
+                    if (index.league != null && index.league.logo != "" && index.home_team.logo != "" && index.away_team.logo != "")
+                    {
+                        <div class="container2">
+                            <!-- code here -->
+                            <div class="match">
+                                <div class="match-header">
+                                    <div class="match-status">
+                                        <div class="video__icon">
+                                            <div class="justify-content-center align-items-center">
+                                                <div class="circle--outer"><p style="margin-top:10px">LIVE</p></div>
+                                                @*<div class="circle--inner"></div>*@
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    @if (index.league != null)
+                                    {
+                                        <div class="match-tournament">
+                                            <img style="width:60px;" src="@index.league.logo" />
+                                            @index.league.name
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="match-tournament">
+
+                                        </div>
+                                    }
+                                    <div class="match-actions">
+                                    </div>
+                                </div>
+                                <div class="match-content">
+                                    <div class="column">
+                                        <div class="team team--home">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.home_team.logo" />
+                                            </div>
+                                            <h2 class="team-name">@index.home_team.name</h2>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="match-details">
+                                            <div class="match-date">
+                                                <strong>@index.status_more</strong>
+                                            </div>
+                                            <div class="match-score">
+                                                <span class="match-score-number match-score-number--leading">@index.home_score.current</span>
+                                                <span class="match-score-divider">:</span>
+                                                <span class="match-score-number">@index.away_score.current</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column">
+                                        <div class="team team--away">
+                                            <div class="team-logo">
+
+                                                <img style="width: 100px" src="@index.away_team.logo" />
+                                            </div>
+                                            <h2 class="team-name"> @index.away_team.name</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    }
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="background-color:darkgray; border-radius:10px">
+        <div class="modal-content" style="background-color:#585757">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Game info</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" style="max-height: 550px;overflow-y: scroll;">
+                <div class="container">
+                    <div class="table-responsive">
+                        <table class="table table-dark shadow rounded">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Home</th>
+                                    <th scope="col">Statistics</th>
+                                    <th scope="col">Away</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (gamesStatistic != null)
+                                {
+
+                                    foreach (var stat in gamesStatistic)
+                                    {
+                                        <tr>
+                                            <td>@stat.home</td>
+                                            <td>@stat.name</td>
+                                            <td>@stat.away</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    public dynamic res = null;
+    public dynamic AllGames = new List<dynamic>();
+    public dynamic soccer = new List<dynamic>();
+    public dynamic tennis = new List<dynamic>();
+    public dynamic basketball = new List<dynamic>();
+    public dynamic hockey = new List<dynamic>();
+    public dynamic volleyball = new List<dynamic>();
+    public dynamic handball = new List<dynamic>();
+    public dynamic searchList = new List<dynamic>();
+    private bool loading = true;
+    private string SearchValue = "";
+    public dynamic gamesStatistic;
+    private string modalChange = "modal fade";
+    private bool isStandard;
+
+    [Parameter]
+    public string news { get; set; }
+
+
+    private void Search(ChangeEventArgs input)
+    {
+        loading = true;
+        InvokeAsync(StateHasChanged);
+        SearchValue = input.Value.ToString().ToLower();
+
+        searchList = new List<dynamic>();
+        Console.WriteLine(AllGames.Count);
+
+        foreach (var item in AllGames)
+        {
+            if (item.home_team.name.ToString().ToLower().Contains(SearchValue) || item.home_team.name.ToString().ToLower().Contains(SearchValue))
+            {
+                searchList.Add(item);
+                Console.WriteLine(item.home_team.name + " - " + item.away_team.name);
+
+            }
+        }
+        loading = false;
+        Console.WriteLine(SearchValue + " - " + searchList.Count);
+        InvokeAsync(StateHasChanged);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        //loading = true;
+        var user = await userManager.GetUserAsync(HttpContextAccessor.HttpContext.User);
+        var Role = await userManager.GetRolesAsync(user);
+        isStandard = false;
+        if (Role.Contains("Standard"))
+        {
+            isStandard = true;
+        }
+
+        var client = new HttpClient();
+        var request = new HttpRequestMessage
+        {
+            Method = HttpMethod.Get,
+            RequestUri = new Uri("https://sportscore1.p.rapidapi.com/events/live?page=1"),
+            Headers =
+        {
+                    { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+                    { "X-RapidAPI-Key", Global.API_KEY },
+                },
+        };
+        using (var response = await client.SendAsync(request))
+        {
+            response.EnsureSuccessStatusCode();
+            var body = await response.Content.ReadAsStringAsync();
+
+
+            res = JsonConvert.DeserializeObject(body);
+
+
+            foreach (var item in res.data)
+            {
+                if (item.sport_id == 1)
+                    if (item.home_score != null && item.away_score != null)
+                    {
+                        if (item.home_score.current != null && item.away_score.current != null)
+                            soccer.Add(item);
+                    }
+                if (item.sport_id == 2)
+                    if (item.home_score != null && item.away_score != null)
+                    {
+                        if (item.home_score.current != null && item.away_score.current != null)
+                            tennis.Add(item);
+                    }
+                if (item.sport_id == 3)
+                    if (item.home_score != null && item.away_score != null)
+                    {
+                        if (item.home_score.current != null && item.away_score.current != null)
+                            basketball.Add(item);
+                    }
+                if (item.sport_id == 4)
+                    if (item.home_score != null && item.away_score != null)
+                    {
+                        if (item.home_score.current != null && item.away_score.current != null)
+                            hockey.Add(item);
+                    }
+                if (item.sport_id == 5)
+                {
+                    if (item.home_score.current != null && item.away_score.current != null)
+                        volleyball.Add(item);
+                }
+                if (item.sport_id == 6)
+                {
+                    if (item.home_score != null && item.away_score != null)
+                    {
+                        if (item.home_score.current != null && item.away_score.current != null)
+                            handball.Add(item);
+                    }
+                }
+                AllGames.Add(item);
+            }
+
+        }
+        request = new HttpRequestMessage
+        {
+            Method = HttpMethod.Get,
+            RequestUri = new Uri("https://sportscore1.p.rapidapi.com/events/live?page=2"),
+            Headers =
+    {
+                { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+                { "X-RapidAPI-Key", Global.API_KEY },
+            },
+        };
+        using (var response = await client.SendAsync(request))
+        {
+            response.EnsureSuccessStatusCode();
+            var body = await response.Content.ReadAsStringAsync();
+
+
+            res = JsonConvert.DeserializeObject(body);
+
+
+            foreach (var item in res.data)
+            {
+                if (item.sport_id == 1)
+                    soccer.Add(item);
+                if (item.sport_id == 2)
+                    tennis.Add(item);
+                if (item.sport_id == 3)
+                    basketball.Add(item);
+                if (item.sport_id == 4)
+                    hockey.Add(item);
+                if (item.sport_id == 5)
+                    volleyball.Add(item);
+                if (item.sport_id == 6)
+                    handball.Add(item);
+                AllGames.Add(item);
+            }
+
+        }
+        loading = false;
+    }
+
+    private async Task GameStatistics(dynamic id)
+    {
+        //if (gamesStatistic != null)
+        //{
+        //    foreach (var data in gamesStatistic)
+        //    {
+        //        if (data.id == id)
+        //        {
+        //            return;
+        //        }
+        //    }
+        //}
+        //loading = true;
+        //InvokeAsync(StateHasChanged);
+
+        string uri = "https://sportscore1.p.rapidapi.com/events/" + id + "/statistics";
+        var client = new HttpClient();
+        var request = new HttpRequestMessage
+        {
+            Method = HttpMethod.Get,
+            RequestUri = new Uri(uri),
+            Headers =
+{
+        { "X-RapidAPI-Host", "sportscore1.p.rapidapi.com" },
+        { "X-RapidAPI-Key", Global.API_KEY},
+    },
+        };
+        using (var response = await client.SendAsync(request))
+        {
+            response.EnsureSuccessStatusCode();
+            var body = await response.Content.ReadAsStringAsync();
+            res = JsonConvert.DeserializeObject(body);
+            gamesStatistic = res.data;
+        }
+        modalChange = "modal active";
+        //loading = false;
+        InvokeAsync(StateHasChanged);
+    }
+
+}

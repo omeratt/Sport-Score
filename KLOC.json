@@ -1,0 +1,10 @@
+Project: WebApplication1
+Configuration: Debug
+Scope: Assembly
+Assembly: \var\jenkins_home\workspace\Team_5\SCE_SPORT_API1@2\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Maintainability Index: 82
+Cyclomatic Complexity: 818
+Depth of Inheritance: 6
+Class Coupling: 260
+Lines of Source code: 8,340
+Lines of Executable code: 1,649

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9205b13b-4fb6-41f2-8e5b-2e8bd0e45884": {
+      "ProjectGuid": "9205b13b-4fb6-41f2-8e5b-2e8bd0e45884",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1f5587c3-e7b8-493d-9b34-f1e91cc8d75d": {
+      "ProjectGuid": "1f5587c3-e7b8-493d-9b34-f1e91cc8d75d",
+      "DisplayName": "SportApi.Tests",
+      "ColorIndex": 1
+    },
+    "a0ad3a81-e5a9-401b-96eb-eb4a7128d33e": {
+      "ProjectGuid": "a0ad3a81-e5a9-401b-96eb-eb4a7128d33e",
+      "DisplayName": "TestProject",
+      "ColorIndex": 2
+    },
+    "cc5b5029-ff9e-4a07-a0aa-1791f46caa2a": {
+      "ProjectGuid": "cc5b5029-ff9e-4a07-a0aa-1791f46caa2a",
+      "DisplayName": "Automation",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
